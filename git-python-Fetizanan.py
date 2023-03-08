@@ -1,3 +1,6 @@
 print("John Kenneth Fetizanan")
 print("Tigwi Torrijos Marinduque")
 print("March 06, 2003")
+print("Marinduque State College")
+print("Bachelor of Science in Information Technology (BSIT)")
+print("2nd Year")
